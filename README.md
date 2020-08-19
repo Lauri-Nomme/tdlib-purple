@@ -1,3 +1,5 @@
+LOL
+
 # New libpurple plugin for Telegram
 
 This is a future successor to [telegram-purple](https://github.com/majn/telegram-purple).
